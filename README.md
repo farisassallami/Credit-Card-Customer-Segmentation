@@ -31,7 +31,7 @@ A credit card company aims to improve its marketing strategies by effectively se
    
 ![silhouette scores](https://github.com/farisassallami/Credit-Card-Customer-Segmentation/assets/111199631/40ead40b-02b0-4675-bae3-06a260d9add0)
 
-    - The graph shows that 3 would be another candidate for a good number of clusters since it has the highest Silhouette Score.
+   - The graph shows that 3 would be another candidate for a good number of clusters since it has the highest Silhouette Score.
 
 ### Fitting 2 different KMeans models (one with 3 clusters and one with 4 clusters) 
 
