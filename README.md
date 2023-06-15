@@ -28,7 +28,14 @@ A credit card company aims to improve its marketing strategies by effectively se
 
    - The graph shows that 3 would be another candidate for a good number of clusters since it has the highest Silhouette Score.
 
-      
+### Fitting 2 different KMeans models (one with 3 clusters and one with 4 clusters) 
+
+   - Displaying the silhouette scores will again confirm the best number of clusters.
+   
+   Silhouette Score using 3 clusters: 0.29
+   Silhouette Score using 4 clusters: 0.24
+   
+   - 3 Clusters has the highest silhouette score
 ### Customer Segmentation & Profiling:
    - Utilize Python's clustering algorithms, such as K-means, DBSCAN, or hierarchical clustering, to group customers based on their attributes.
    - Evaluate the quality of the clustering using the Silhouette Score, which measures the compactness and separation of the clusters.
