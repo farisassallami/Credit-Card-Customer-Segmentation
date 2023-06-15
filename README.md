@@ -23,13 +23,11 @@ A credit card company aims to improve its marketing strategies by effectively se
    - We will Calculate the Silhouette Score for each clustering solution.
    - We will Compare the scores to determine the clustering solution that maximizes the separation between clusters while maintaining their compactness.
    
-![silhouette scores](https://github.com/farisassallami/Credit-Card-Customer-Segmentation/assets/111199631/b8d9df47-f434-4023-a299-fc8e63ce0fe6)
+![silhouette scores](https://github.com/farisassallami/Credit-Card-Customer-Segmentation/assets/111199631/40ead40b-02b0-4675-bae3-06a260d9add0)
 
-   - The graph shows that 2 would be another candidate for a good number of clusters since it has the highest Silhouette Score.
 
-   - Reviewing the elbow plot of inertia, it appears that the slope of the line between 2 and 3 clusters is steepest, which confirms that 2 is the best candidate for the number of clusters.
+   - The graph shows that 3 would be another candidate for a good number of clusters since it has the highest Silhouette Score.
 
-   - Fitting 2 different KMeans models (one with 2 clusters and one with 4 clusters) and displaying the silhouette scores will again confirm the best number of clusters.
       
 ### Customer Segmentation & Profiling:
    - Utilize Python's clustering algorithms, such as K-means, DBSCAN, or hierarchical clustering, to group customers based on their attributes.
