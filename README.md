@@ -32,8 +32,8 @@ A credit card company aims to improve its marketing strategies by effectively se
 
    - Displaying the silhouette scores will again confirm the best number of clusters.
    
-   Silhouette Score using 3 clusters: 0.29
-   Silhouette Score using 4 clusters: 0.24
+   - Silhouette Score using 3 clusters: 0.29
+   - Silhouette Score using 4 clusters: 0.24
    
    - 3 Clusters has the highest silhouette score
 ### Customer Segmentation & Profiling:
