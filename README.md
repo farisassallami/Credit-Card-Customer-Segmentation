@@ -1,5 +1,8 @@
 # Credit Card Customer Segmentation for Targeted Marketing Campaigns
 
+![credit card segmentation](https://github.com/farisassallami/Credit-Card-Customer-Segmentation/assets/111199631/34a09563-586c-409b-a108-1a39c5d91a47)
+Image Source: https://www.codersarts.com/post/credit-card-customer-segmentation-clustering-classification
+
 ## Business Problem
 A credit card company aims to improve its marketing strategies by effectively segmenting its customer base. By leveraging Python and employing the Silhouette Score and Elbow Plot techniques, the company seeks to identify distinct groups within its customer population. This segmentation will enable the organization to tailor its marketing campaigns, develop personalized offers, and enhance customer satisfaction, ultimately leading to increased customer retention and revenue growth.
 
