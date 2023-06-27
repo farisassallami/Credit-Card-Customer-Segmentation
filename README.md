@@ -48,4 +48,4 @@ A credit card company aims to improve its marketing strategies by effectively se
 ## Expected Outcome:
 The credit card company expects to gain valuable insights into its customer base by successfully segmenting customers using Python and employing the Silhouette Score and Elbow Plot techniques. This segmentation will empower the company to develop personalized marketing strategies, tailor product offerings, and allocate resources effectively. By targeting specific customer segments with relevant campaigns, the company aims to improve customer satisfaction, boost customer retention, and drive revenue growth.
 
- 
+ ### Recommendations:
