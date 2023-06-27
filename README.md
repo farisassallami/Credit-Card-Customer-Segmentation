@@ -49,3 +49,5 @@ A credit card company aims to improve its marketing strategies by effectively se
 The credit card company expects to gain valuable insights into its customer base by successfully segmenting customers using Python and employing the Silhouette Score and Elbow Plot techniques. This segmentation will empower the company to develop personalized marketing strategies, tailor product offerings, and allocate resources effectively. By targeting specific customer segments with relevant campaigns, the company aims to improve customer satisfaction, boost customer retention, and drive revenue growth.
 
  ### Recommendations:
+
+- Based on their debt, Cluster 0 customers are also good candidates for credit card offers. The offers should have moderate credit limits and moderate interest rates though, because Cluster 0 customers have no defaults despite their lower debts.
