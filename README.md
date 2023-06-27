@@ -1,6 +1,7 @@
 # Credit Card Customer Segmentation for Targeted Marketing Campaigns
 
 ![credit card segmentation](https://github.com/farisassallami/Credit-Card-Customer-Segmentation/assets/111199631/34a09563-586c-409b-a108-1a39c5d91a47)
+
 Image Source: https://www.codersarts.com/post/credit-card-customer-segmentation-clustering-classification
 
 ## Business Problem
