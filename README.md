@@ -19,6 +19,8 @@ A credit card company aims to improve its marketing strategies by effectively se
    - Evaluate the quality of the clustering using the Silhouette Score, which measures the compactness and separation of the clusters.
    - Analyze the characteristics and behaviors of each customer segment.
    - Identify key attributes that differentiate the segments and provide actionable insights for targeted marketing campaigns.
+## Expected Outcome:
+The credit card company expects to gain valuable insights into its customer base by successfully segmenting customers using Python and employing the Silhouette Score and Elbow Plot techniques. This segmentation will empower the company to develop personalized marketing strategies, tailor product offerings, and allocate resources effectively. By targeting specific customer segments with relevant campaigns, the company aims to improve customer satisfaction, boost customer retention, and drive revenue growth.
    
 ### Elbow Plot Analysis:
    - Using the Elbow Plot technique to determine the optimal number of clusters for customer segmentation.
@@ -46,11 +48,6 @@ A credit card company aims to improve its marketing strategies by effectively se
    
    - 3 Clusters has the highest silhouette score
 
-
-
-
-## Expected Outcome:
-The credit card company expects to gain valuable insights into its customer base by successfully segmenting customers using Python and employing the Silhouette Score and Elbow Plot techniques. This segmentation will empower the company to develop personalized marketing strategies, tailor product offerings, and allocate resources effectively. By targeting specific customer segments with relevant campaigns, the company aims to improve customer satisfaction, boost customer retention, and drive revenue growth.
 
  ### Recommendations:
 
