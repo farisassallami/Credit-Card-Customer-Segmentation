@@ -53,4 +53,4 @@ The credit card company expects to gain valuable insights into its customer base
 
 - Based on their debt, Cluster 0 customers are also good candidates for credit card offers. The offers should have moderate credit limits and moderate interest rates though, because Cluster 0 customers have no defaults despite their lower debts.  They have some long-term potential as a credit customer because they are young and new to the workforce--perhaps they will earn higher credit limits and lower interest rates as they demonstrate more successful money management skills.
 
-- Based on their longer experience with employment,
+- Based on their longer experience with employment, income, 
