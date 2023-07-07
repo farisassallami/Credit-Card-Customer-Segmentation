@@ -55,4 +55,4 @@ The credit card company expects to gain valuable insights into its customer base
 
 - Based on their longer experience with employment, income, and money management, Cluster 1 customers are good candidates for credit card offers.  The offers should have high credit limits because they have significant income that they are willing to spend.  They should have lower interest rates because Cluster 1 customers know how to manage their debt.
   
-- Cluster 2 customers were also young like cluster 0, but they were more educated.  In the future they will convert to cluster 1 customers.  They do have alot of debt now and the least amount of work years experience,
+- Cluster 2 customers were also young like cluster 0, but they were more educated.  In the future they will convert to cluster 1 customers.  They do have alot of debt now and the least amount of work years experience, but they
